@@ -50,32 +50,42 @@ Customer Engagement and Convention Analysis for ShopEasy using Python and SQL.
 📌Key Insights & Findings
 	
  1. Customer Engagement Analysis
-	* Videos receive the most likes, while Blogs attract the most clicks and views.
-	* Kayak & Running Shoes are the most engaging products.
+	
+ 	* Videos receive the most likes, while Blogs attract the most clicks and views.
+	
+ 	* Kayak & Running Shoes are the most engaging products.
 
 🔹 Recommendation: Prioritize video-based marketing and SEO-optimized blogs.
 
 2. Customer Journey Analysis
-	* Checkout is the biggest drop-off stage, with only 6 customers proceeding to purchase.
- 	* Most time is spent on the Product Page, indicating strong interest.
+	
+ 	* Checkout is the biggest drop-off stage, with only 6 customers proceeding to purchase.
+
+   	* Most time is spent on the Product Page, indicating strong interest.
 
 🔹 Recommendation: Simplify checkout, offer discounts, and send cart abandonment reminders.
 
 3. Impact of Customer Reviews
-	* Only high-rated products sell, proving that reviews influence purchases.
-	* Football Helmet is the highest-rated product, while Basketball is the lowest-rated.
+	
+ 	* Only high-rated products sell, proving that reviews influence purchases.
+	
+ 	* Football Helmet is the highest-rated product, while Basketball is the lowest-rated.
 
 🔹 Recommendation: Encourage reviews, improve low-rated products, and highlight top-rated ones.
 
 4. Best-Performing Products & Customer Segments
-	* Surfboard & Climbing Rope are the best-selling products.
-   	* No single best-performing country (success across six different regions).
-   	* 46+ Female age group is the top-performing segment.
+	
+ 	* Surfboard & Climbing Rope are the best-selling products.
+   	
+    	* No single best-performing country (success across six different regions).
+   	
+    	* 46+ Female age group is the top-performing segment.
 
 🔹 Recommendation: Expand marketing across multiple regions, focus on high-converting age groups.
 
 5. Customer Retention Analysis
-	* No repeat customers; all buyers are first-time purchasers.
+	
+ 	* No repeat customers; all buyers are first-time purchasers.
 
 🔹 Recommendation: Introduce loyalty programs, personalized marketing, and retargeting strategies.
 
