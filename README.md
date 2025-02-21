@@ -25,7 +25,7 @@ Customer Engagement and Convention Analysis for ShopEasy using Python and SQL.
   	
    	3. Understand the impact of customer reviews on purchasing decisions.
    	
-    	4. Identify best-performing products, locations, and customer segments.
+	4. Identify best-performing products, locations, and customer segments.
     	
 	5. Measure customer retention rates and distinguish first-time vs. repeat buyers.
 
