@@ -40,7 +40,8 @@ Customer Engagement and Convention Analysis for ShopEasy using Python and SQL.
 	* Geography : Store Location related data like Country & City.
 
   	* Customer : Holds Customer details such as Name, Age, Gender & location.
-   	* Products : Products details like ID, Name, Categoty & Pricd.
+   	
+    	* Products : Products details like ID, Name, Categoty & Pricd.
 
 🛠 Tech Stack
 
